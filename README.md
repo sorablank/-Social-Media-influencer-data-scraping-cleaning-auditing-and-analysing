@@ -1,4 +1,4 @@
-# DMDD Final Project
+# Social Media influencer data scraping, cleaning, auditing and analysing
 
 Project Objective The objective of our project is to design a database of YouTube and Twitter influencers catering to business marketing needs. The scope of our project includes records on the influencer's reach, type of content, and origin of the content, amongst other things. This sophisticated system can further be used to deduce and match which social media influencer is a good fit for advertising businesses based on many criteria. 
 
